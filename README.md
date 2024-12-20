@@ -1,1 +1,1 @@
-# remote-sensor-dashboard
+# Wireless Data Transmission Simulation

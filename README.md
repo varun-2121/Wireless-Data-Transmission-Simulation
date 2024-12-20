@@ -26,3 +26,6 @@ The dashboard setup for this project involves using an MQTT client tool, such as
 - View Real-Time Data: As the microcontroller publishes temperature and humidity data to the topic, the dashboard will display the information in real-time.
   
 By using the HiveMQ Websocket Client or similar tools, the setup allows users to visualize the transmitted data with minimal configuration, making it an ideal solution for prototyping and IoT development.
+
+## Simulation
+https://wokwi.com/projects/417270769225430017
